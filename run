@@ -1,3 +1,0 @@
-#!/bin/bash
-
-javac jiyong/$1/$2.java && java jiyong/$1/$2
