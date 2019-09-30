@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jdraw.test.DrawModelTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2019-09-30T10:56:11" hostname="jiyonggcbookair.edu.ds.fhnw.ch" time="0.075">
+  <properties/>
+  <testcase name="testRemoveFigure1()" classname="jdraw.test.DrawModelTest" time="0.007"/>
+  <testcase name="testRemoveFigure2()" classname="jdraw.test.DrawModelTest" time="0.005"/>
+  <testcase name="testRemoveFigure3()" classname="jdraw.test.DrawModelTest" time="0.003"/>
+  <testcase name="testRemoveFigure4()" classname="jdraw.test.DrawModelTest" time="0.003"/>
+  <testcase name="testRemoveAllFigures1()" classname="jdraw.test.DrawModelTest" time="0.002"/>
+  <testcase name="testRemoveAllFigures2()" classname="jdraw.test.DrawModelTest" time="0.002"/>
+  <testcase name="testAddFigure1()" classname="jdraw.test.DrawModelTest" time="0.003"/>
+  <testcase name="testAddFigure2()" classname="jdraw.test.DrawModelTest" time="0.001"/>
+  <testcase name="testAddFigure3()" classname="jdraw.test.DrawModelTest" time="0.002"/>
+  <testcase name="testAddFigure4()" classname="jdraw.test.DrawModelTest" time="0.002"/>
+  <testcase name="testAddFigure5()" classname="jdraw.test.DrawModelTest" time="0.003"/>
+  <testcase name="testAddFigure6()" classname="jdraw.test.DrawModelTest" time="0.002"/>
+  <testcase name="testSetFigureIndex1()" classname="jdraw.test.DrawModelTest" time="0.002"/>
+  <testcase name="testSetFigureIndex2()" classname="jdraw.test.DrawModelTest" time="0.003"/>
+  <testcase name="testSetFigureIndex3()" classname="jdraw.test.DrawModelTest" time="0.002"/>
+  <testcase name="testSetFigureIndex4()" classname="jdraw.test.DrawModelTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

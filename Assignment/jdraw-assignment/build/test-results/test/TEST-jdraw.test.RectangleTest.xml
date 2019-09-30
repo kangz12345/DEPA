@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jdraw.test.RectangleTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-09-30T10:56:10" hostname="jiyonggcbookair.edu.ds.fhnw.ch" time="0.316">
+  <properties/>
+  <testcase name="testRemoveListener()" classname="jdraw.test.RectangleTest" time="0.3"/>
+  <testcase name="testCycle()" classname="jdraw.test.RectangleTest" time="0.006"/>
+  <testcase name="testNotification1()" classname="jdraw.test.RectangleTest" time="0.001"/>
+  <testcase name="testNotification2()" classname="jdraw.test.RectangleTest" time="0.001"/>
+  <testcase name="testMultiListeners()" classname="jdraw.test.RectangleTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
